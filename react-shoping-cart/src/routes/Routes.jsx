@@ -9,10 +9,11 @@ export default function Routes() {
   return (
     <div>
       <Switch>
-        <Route path="/" render={() => <Home />} />
-        <Route path="/product" render={() => <Product />} />
-        <Route path="/cart" render={() => <Cart />} />
-        <Route path="/orders" render={() => <Orders />} />
+        <Route exact path="/" render={() => <Home />} />
+        <Route exact path="/product/" render={() => <Product />} />
+        <Route exact path="/product/:id" render={(props) => <Product {...props}/>} />
+        <Route exact path="/cart" render={() => <Cart />} />
+        <Route exact path="/orders" render={() => <Orders />} />
       </Switch>
     </div>
   );

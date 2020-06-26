@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Lollipop",
     "type": "Beverages",
     "price": 123
   },
   {
     "id": "2",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Kadai Paneen",
     "price": 135,
     "type": "Beverages",
@@ -17,35 +17,35 @@
   },
   {
     "id": "3",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "Beverages",
     "price": 169
   },
   {
     "id": "4",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "Beverages",
     "price": 169
   },
   {
     "id": "5",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Roll",
     "type": "Beverages",
     "price": 70
   },
   {
     "id": "11",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Lollipop",
     "type": "Snaks",
     "price": 123
   },
   {
     "id": "12",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Kadai Paneen",
     "price": 135,
     "totalQuantity": 20,
@@ -54,35 +54,35 @@
   },
   {
     "id": "13",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "Snaks",
     "price": 169
   },
   {
     "id": "14",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "Snaks",
     "price": 169
   },
   {
     "id": "15",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Roll",
     "type": "Snaks",
     "price": 70
   },
   {
     "id": "21",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Lollipop",
     "type": "coffee",
     "price": 123
   },
   {
     "id": "22",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Kadai Paneen",
     "price": 135,
     "totalQuantity": 20,
@@ -91,21 +91,21 @@
   },
   {
     "id": "3",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "coffee",
     "price": 169
   },
   {
     "id": "4",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Mixed Hakka Noodles",
     "type": "coffee",
     "price": 169
   },
   {
     "id": "5",
-    "img": "https://travelandleisureindia.in/wp-content/uploads/2019/12/Indian-But-Not-Indian-Food-feature.jpg",
+    "img": "https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg",
     "name": "Chicken Roll",
     "type": "coffee",
     "price": 70
